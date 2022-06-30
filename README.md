@@ -8,7 +8,7 @@ Currently market-making/HFT crypto markets as a personal project (Over 1.1bn USD
 
 <!-- blog start -->
 
-
+*   [New Website, First Post](https://jracollins.com/post/first-post)<br/>*This is probably the developer equivalent of the influencer "so a lot of you have been asking about my...", and given no one, literally no one, asked - here's my first post...*
 
 <!-- blog end -->
 
